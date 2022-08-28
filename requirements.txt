@@ -1,0 +1,7 @@
+autopep8==1.7.0
+certifi==2022.6.15
+pycodestyle==2.9.1
+python-dotenv==0.20.0
+pytube @ file:///home/conda/feedstock_root/build_artifacts/pytube_1652065321421/work
+toml==0.10.2
+wincertstore==0.2
