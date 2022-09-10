@@ -16,5 +16,8 @@ class DownloadVideos(Step):
                 continue
 
             print('downloading', url)
-            YouTube(url).streams.first().download(
+            YouTube(url).streams.get_by_resolution('360p').download(
                 output_path=VIDEOS_DIR, filename=yt.id + '.mp4')
+        return data
+
+# YouTube(url).streams.first

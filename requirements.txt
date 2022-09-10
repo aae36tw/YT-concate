@@ -1,7 +1,27 @@
 autopep8==1.7.0
+brotlipy @ file:///D:/bld/brotlipy_1648854347500/work
 certifi==2022.6.15
+cffi @ file:///D:/bld/cffi_1656782940775/work
+charset-normalizer @ file:///home/conda/feedstock_root/build_artifacts/charset-normalizer_1661170624537/work
+colorama @ file:///home/conda/feedstock_root/build_artifacts/colorama_1655412516417/work
+cryptography @ file:///D:/bld/cryptography_1657174142266/work
+decorator @ file:///home/conda/feedstock_root/build_artifacts/decorator_1641555617451/work
+idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1642433548627/work
+imageio @ file:///home/conda/feedstock_root/build_artifacts/imageio_1661789389824/work
+imageio-ffmpeg @ file:///home/conda/feedstock_root/build_artifacts/imageio-ffmpeg_1649960641006/work
+moviepy @ file:///home/conda/feedstock_root/build_artifacts/moviepy_1650150436575/work
+numpy @ file:///D:/bld/numpy_1660672976152/work
+Pillow @ file:///D:/bld/pillow_1660385947107/work
+proglog==0.1.9
 pycodestyle==2.9.1
+pycparser @ file:///home/conda/feedstock_root/build_artifacts/pycparser_1636257122734/work
+pyOpenSSL @ file:///home/conda/feedstock_root/build_artifacts/pyopenssl_1643496850550/work
+PySocks @ file:///D:/bld/pysocks_1661604991356/work
 python-dotenv==0.20.0
 pytube @ file:///home/conda/feedstock_root/build_artifacts/pytube_1652065321421/work
+requests @ file:///home/conda/feedstock_root/build_artifacts/requests_1661872987712/work
 toml==0.10.2
+tqdm @ file:///home/conda/feedstock_root/build_artifacts/tqdm_1649051611147/work
+urllib3 @ file:///home/conda/feedstock_root/build_artifacts/urllib3_1658789158161/work
+win-inet-pton @ file:///D:/bld/win_inet_pton_1648771897787/work
 wincertstore==0.2
